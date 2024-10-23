@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">imageclassification</string>
+    <string name="image_to_be_labeled">Image to be labeled</string>
+
+</resources>
